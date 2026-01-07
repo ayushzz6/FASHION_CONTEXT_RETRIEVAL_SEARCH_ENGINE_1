@@ -1,0 +1,15 @@
+typer
+streamlit
+numpy
+torch
+open-clip-torch
+chromadb
+scikit-learn
+opencv-python
+Pillow
+scipy
+pydantic
+pyyaml
+transformers
+ultralytics
+hf_xet
